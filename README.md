@@ -2,8 +2,8 @@
 Comp Graphics and Visualization
 \
 
-NOTE: My project file said it is 191MB and GitHub only allows 25MB uploads (this was a zipped folder already). I have instead uploaded my source.cpp and screenshots of the project in action.\n
-How do I approach designing software?\n
+NOTE: My project file said it is 191MB and GitHub only allows 25MB uploads (this was a zipped folder already). I have instead uploaded my source.cpp and screenshots of the project in action.\
+How do I approach designing software?\
     What new design skills has your work on the project helped you to craft?
     This project taught me a ton about frames, polygons, rendering, and how items are positioned on the screen. This will really help when, in the future, I need to create visually engaging programs. Even if a project uses something like DirectX instead, it will be helpful to understand positioning, scaling, and placement in order to really get a feeling for how programs work with displays. For example, one thing I didn't understand when first doing early website work with CSS and HTML was the z-index. It seems to only work sometimes, but at least now the concept is abundantly clear to me, the position on the z axis relative to other objects. This has been fascinating to explore.
     What design process did you follow for your project work?
